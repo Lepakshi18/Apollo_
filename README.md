@@ -29,11 +29,3 @@ A front-end web development project that replicates the structure, layout, and u
   ✔ Professionally designed card layouts
   ✔ Sections inspired by Apollo Hospitals’ official website
 
-📂 Project Structure
-  Apollo_/
-  │── index.html
-  │── style.css
-  │── script.js
-  │── assets/
-  │     ├── images
-  │     └── icons
